@@ -1,0 +1,23 @@
+{
+  "name": "@vwt/tools",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medsestrun/vwt-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Medsestrun/vwt-tools/issues"
+  },
+  "homepage": "https://github.com/Medsestrun/vwt-tools#readme",
+  "dependencies": {
+    "winston": "^3.2.1",
+    "winston-loggly-bulk": "^3.0.1"
+  }
+}
